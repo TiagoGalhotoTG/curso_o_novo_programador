@@ -1,7 +1,7 @@
 
     Mês 1 - Fundamentos Da Programação + Web
  
-    Semana 1
+    Semana 1.
 
     Curso O Novo Programdor
 
