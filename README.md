@@ -35,4 +35,9 @@
     Update: realiza a atualização de dados.
     Delete, realiza a exclusão de dados.
 
+    Observação:
+
+    A grande maioria das vagas na área de programação exige o domínio do desenvolvimento de operações do tipo
+    CRUD (Create, Read, Update, Delete).
+
     Nome, E-mail, Telefone, Ativo, Data_de_inscricao.
