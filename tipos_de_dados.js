@@ -15,10 +15,6 @@
                nome: "Gilmar Galhoto",
                email: "gilmargalhoto2026@yahoo.com.br"
           }
-          {
-               nome: "Daniel Ribeiro",
-               email: "danielribeiro@gmail.com"
-          }
         ]
    },
 
