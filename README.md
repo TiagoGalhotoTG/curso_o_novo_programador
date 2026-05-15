@@ -5,7 +5,7 @@
 
     Curso O Novo Programdor
 
-    Lógica De Programação / JavaScript
+    Lógica De Programação / Java Script
 
     Tipos De Dados
 
@@ -19,12 +19,12 @@
     Objeto - object
     Array - Agrupamento separado por vírgula de objetos ou números ou textos etc.
 
-    Um objeto consiste em um conjunto de dados estruturados na forma de pares compostos por chave e valor, 
-    separados por dois pontos.
+    Um objeto consiste em um conjunto de dados estruturados na forma de pares compostos por chave e valor,
+     separados por dois pontos.
     
     Exercício:
 
-    1 - Pesquise e Liste todos os tipos de dados que a linguagem JavaScript aceita?
+    1 - Pesquise e Liste todos os tipos de dados que a linguagem Java Script aceita?
 
     R:
 
@@ -37,7 +37,6 @@
 
     Observação:
 
-    A grande maioria das vagas na área de programação exige o domínio do desenvolvimento de operações do tipo
-    CRUD (Create, Read, Update, Delete).
+    A grande maioria das vagas na área de programação exige o domínio do desenvolvimento de operações do tipo CRUD (Create, Read, Update, Delete).
 
     Nome, E-mail, Telefone, Ativo, Data_de_inscricao.
