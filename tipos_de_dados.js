@@ -1,6 +1,5 @@
 
-
-const dados = [
+const aluno = [
           {
                nome: "Tiago Galhoto",
                email: "tiagogalhoto2@gmail.com",
@@ -29,4 +28,3 @@ const dados = [
                familiares: []
           }
      ];
-     

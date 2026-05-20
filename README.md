@@ -5,7 +5,7 @@
 
     Curso O Novo Programdor
 
-    Lógica De Programação / Java Script
+    Lógica De Programação / JavaScript
 
     Tipos De Dados
 
@@ -39,4 +39,17 @@
 
     A grande maioria das vagas na área de programação exige o domínio do desenvolvimento de operações do tipo CRUD (Create, Read, Update, Delete).
 
-    Nome, E-mail, Telefone, Ativo, Data_de_inscricao.
+    Variáveis
+
+    Uma variável em JavaScript é um espaço utilizado para armazenar informações na memória do programa, como números, textos, valores lógicos ou outros dados.
+    Ela permite guardar valores para serem usados, alterados e reutilizados durante a execução do código.
+
+    var
+
+    Forma antiga de declaração de variáveis em Java Script.
+
+    const
+
+    Cria uma variável com valor constante, que não pode ser alterado.
+
+    Atualmente, recomenda-se utilizar principalmente "let" e "const".
