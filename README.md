@@ -24,7 +24,7 @@
     
     Exercício:
 
-    1 - Pesquise e Liste todos os tipos de dados que a linguagem Java Script aceita?
+    1 - Pesquise e Liste todos os tipos de dados que a linguagem JavaScript aceita?
 
     R:
 
@@ -42,14 +42,16 @@
     Variáveis
 
     Uma variável em JavaScript é um espaço utilizado para armazenar informações na memória do programa, como números, textos, valores lógicos ou outros dados.
-    Ela permite guardar valores para serem usados, alterados e reutilizados durante a execução do código.
+    ela permite guardar valores para serem usados, alterados e reutilizados durante a execução do código.
 
     var
 
-    Forma antiga de declaração de variáveis em Java Script.
+    Forma antiga de declaração de variáveis em JavaScript.
 
     const
 
     Cria uma variável com valor constante, que não pode ser alterado.
 
     Atualmente, recomenda-se utilizar principalmente "let" e "const".
+
+    Conexão Básica com javaScript
